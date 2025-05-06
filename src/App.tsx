@@ -15,6 +15,7 @@ function App() {
             <label className="flex">username</label>
             <input type="text" className="bg-neutral-100 flex" />
           </div>
+          <button>Log In</button>
         </div>
       </form>
     </div>
