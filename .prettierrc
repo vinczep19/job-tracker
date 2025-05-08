@@ -1,6 +1,10 @@
 {
+  "trailingComma": "none",
   "semi": false,
-  "singleQuote": true,
   "tabWidth": 2,
-  "trailingComma": "es5"
+  "printWidth": 160,
+  "singleQuote": true,
+  "endOfLine": "auto",
+  "importOrder": ["^[./]"],
+  "importOrderSeparation": true
 }
